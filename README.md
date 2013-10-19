@@ -5,8 +5,8 @@ This repository contains the source jsp and java files for the
 Anita Conti Mapping Server using Tomcat and the intensional infrastructure
 for web programming called intense.
 
-The ACMS requires other software, some publically available, some was
-never released (that software was not written by me!).
+The ACMS requires other software: GMT generic mapping tools, Omega typesetting 
+system, PostgreSQL; and some software never released (that software was not written by me!).
 
 The ACMS was left in the experimental, almost prototype state, and
 served as proof of concept. It was used to find weakness in the engine
